@@ -7,8 +7,7 @@ I'm Manu.
 
 
 <br />
-<div align='center'>
-  ## Languages and Tools:
+<div style="text-align: center;">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
