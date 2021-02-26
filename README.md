@@ -5,6 +5,7 @@
 I'm Manu.
 </p>
 
+<!--
 
 <br />
 <div style="text-align: center;">
@@ -22,7 +23,7 @@ I'm Manu.
 </div>
 
 
-
+-->
 
 
 
