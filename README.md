@@ -1,9 +1,26 @@
 
 <!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)-->
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Manu.
+<h1 align='left'> Hi! :wave:</h1>
+<p align='left'>I'm Manu.</p>
+<p align='left'>
+🔭 I’m currently working on Ria Money Transfer - TEAM DENVER, CO, USA
 </p>
+<p align='left'>
+🌱 I’m currently learning Amazon Web Services
+</p>
+
+<p align='left'>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortegac&layout=compact&theme=material-palenight" />
+</p>
+
+<p align='left'>
+<h3> 🤝🏻 Connect with Me </h3>
+</p>
+
+<p align='left'>
+  &nbsp; <a href="https://www.linkedin.com/in/manuel-ortega-carcamo/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
+</p>
+
 
 <!--
 
