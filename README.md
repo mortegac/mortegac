@@ -9,9 +9,60 @@
 🌱 I’m currently learning Amazon Web Services
 </p>
 
-<p align='left'>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortegac&layout=compact&theme=material-palenight" />
-</p>
+<table border="0">
+ <tr>
+   <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortegac&layout=compact&theme=material-palenight" />
+   </td>
+   <td>
+     <a href="https://github.com/mortegac">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mortegac&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+     </a>
+
+   </td>
+ </tr>
+</table>
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+-  Mobile:&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
+
+
+-  Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+
+- Frontend:&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=styled-components&logoColor=fff)
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+
+- Database:&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  ![Redis](https://img.shields.io/badge/-Redis-0A1A2F?style=flat&logo=redis)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+
+- VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-0A1A2F?style=flat&logo=gitlab)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0A1A2F?style=flat&logo=Bitbucket)
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+
+- IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
+
+- Design:&nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+  ![Figma](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=Photoshop)
+  
+  
+  
 
 <p align='left'>
 <h3> 🤝🏻 Connect with Me </h3>
