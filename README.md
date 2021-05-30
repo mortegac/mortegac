@@ -10,9 +10,9 @@
 </p>
 
 
-- :neckbeard: I’m write articles in:
-  ![dev.to](https://dev.to/mortegac/)
-  ![medium.com](https://medium.com/@mortegac)
+:neckbeard: I’m write articles in::&nbsp;
+  ![dev.to](https://dev.to/mortegac/):&nbsp;
+  ![medium.com](https://medium.com/@mortegac):&nbsp;
 
 
 
