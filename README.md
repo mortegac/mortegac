@@ -9,6 +9,14 @@
 🌱 I’m currently learning Amazon Web Services
 </p>
 
+<p align='left'>
+:neckbeard: I’m write articles in:
+  ![dev.to](https://dev.to/mortegac/)
+  ![medium.com](https://medium.com/@mortegac)
+
+</p>
+
+
 <table border="0">
  <tr>
    <td>
