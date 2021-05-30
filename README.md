@@ -11,8 +11,10 @@
 
 
 :neckbeard: I’m write articles in::&nbsp;
-  ![dev.to](https://dev.to/mortegac/):&nbsp;
-  ![medium.com](https://medium.com/@mortegac):&nbsp;
+
+  [dev.to](https://dev.to/mortegac/):&nbsp;
+  
+  [medium.com](https://medium.com/@mortegac):&nbsp;
 
 
 
@@ -104,8 +106,7 @@
 
 
 
-<!--
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+<!--li<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
