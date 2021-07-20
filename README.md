@@ -80,6 +80,24 @@
 
 
 <!--
+Repositorio para grafico de actividad
+-->
+<h3 align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=mortegac&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
+</h3>
+
+<!--
+Repositorio para esta Card
+-->
+
+<h3 align='center'>
+  <img align='center' src="http://github-readme-streak-stats.herokuapp.com?user=mortegac&theme=dark&hide_border=true&ring=59BFFF&fire=FFFFFF&stroke=59BFFF&currStreakLabel=FFFFFF&sideNums=59BFFF&sideLabels=59BFFF&currStreakNum=FFFFFF&dates=00DD2BEE"/>
+</h3>
+
+
+
+
+<!--
 
 <br />
 <div style="text-align: center;">
