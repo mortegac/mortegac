@@ -30,6 +30,11 @@
 </table>
 
 
+
+<table border="0">
+ <tr>
+   <td>
+     
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 -  Mobile:&nbsp;
@@ -68,6 +73,18 @@
   ![Figma](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=Photoshop)
   
   
+   </td>
+   <td>
+     
+<a href="https://app.daily.dev/manuortega"><img src="https://api.daily.dev/devcards/c0516d21eb13438d8650422b2cbb8108.png?r=83u" width="400" alt="Manuel Ortega Carcamo's Dev Card"/></a>
+   </td>
+ </tr>
+</table>
+
+
+
+
+
   
 
 <p align='left'>
