@@ -50,6 +50,7 @@
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=styled-components&logoColor=fff)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+  ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-0A1A2F?style=flat&logo=gatsby.js)
 
 - Database:&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
@@ -70,7 +71,8 @@
 
 - Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-  ![Figma](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=Photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=photoshop)
+  ![Sketch](https://img.shields.io/badge/-Sketch-0A1A2F?style=flat&logo=sketch)
   
   
    </td>
