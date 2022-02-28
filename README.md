@@ -31,7 +31,7 @@
 
 
 
-<table border="0">
+<table border="0" width="100%">
  <tr>
    <td>
      
@@ -76,13 +76,6 @@
   
   
    </td>
-  <!--
-  
-   <td>
-     
-<a href="https://app.daily.dev/manuortega"><img src="https://api.daily.dev/devcards/c0516d21eb13438d8650422b2cbb8108.png?r=83u" width="400" alt="Manuel Ortega Carcamo's Dev Card"/></a>
-   </td>
--->
  </tr>
 </table>
 
