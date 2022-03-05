@@ -1,5 +1,10 @@
 
 <!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)-->
+<img src="https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+         
 <h1 align='left'> Hi! :wave:</h1>
 <p align='left'>I'm Manu.</p>
 <p align='left'>
