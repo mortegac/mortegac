@@ -17,8 +17,12 @@
 
 :neckbeard: I’m write articles in: [dev.to](https://dev.to/mortegac/) and [medium.com](https://medium.com/@mortegac)
 
-
-
+<p align='left'>
+<h3> 🤝🏻 Connect with Me </h3> 
+</p>
+<p align='left'>
+  &nbsp; <a href="https://www.linkedin.com/in/manuel-ortega-carcamo/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
+</p>
 
 <table border="0">
  <tr>
@@ -86,17 +90,12 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mortegac&theme=onedark)](https://github.com/mortegac/github-profile-trophy)
 
 
-  
 
-<p align='left'>
-<h3> 🤝🏻 Connect with Me </h3>
-</p>
 
-<p align='left'>
-  &nbsp; <a href="https://www.linkedin.com/in/manuel-ortega-carcamo/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/NZN06Jg.png" width="30" /></a>
-</p>
+
 
 
 <!--
