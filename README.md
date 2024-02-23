@@ -90,22 +90,6 @@
 
 
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mortegac&theme=onedark)](https://github.com/mortegac/github-profile-trophy)
-
-
-
-
-
-
-
 <!--
 Repositorio para grafico de actividad
 -->
