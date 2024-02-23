@@ -92,11 +92,11 @@
 
 <!--
 Repositorio para grafico de actividad
--->
+
 <h3 align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=mortegac&area=true&hide_border=true&line=3AFC30&theme=react-dark"/>
 </h3>
-
+-->
 <!--
 Repositorio para esta Card
 -->
